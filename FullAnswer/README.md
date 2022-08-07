@@ -1,0 +1,1 @@
+The program for forming an array consisting of elements less than 4 characters long from the data received from the initial array.
